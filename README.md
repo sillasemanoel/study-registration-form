@@ -21,7 +21,7 @@ This project is a web page featuring a registration form for the preschool "Estr
 
 ```bash
 # Clone this repository
-git clone https://github.com/sillasemanoel/study-registration-form
+git clone https://github.com/sillasemanoel/study-registration-form.git
 
 # Enter the project folder
 cd study-registration-form
